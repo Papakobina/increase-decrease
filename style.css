@@ -1,0 +1,9 @@
+button{
+    margin-right: 5cm;
+    margin-bottom: 0.1cm;
+    border-radius: 15%;
+    border-block-end-color: blue;
+    border-block-end-width: 0.1cm;
+    color: white;
+    background-color: black
+}
